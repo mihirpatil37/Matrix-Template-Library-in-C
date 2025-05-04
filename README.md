@@ -26,7 +26,7 @@ A templated C++ library for handling matrix operations efficiently, supporting v
 
    ```bash
    ./matrix_app
-
+   ```
 ## Usage
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
